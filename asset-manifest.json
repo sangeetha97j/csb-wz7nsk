@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://sangeetha97j.github.io/csb-wz7nsk/static/css/main.fc5c2c69.css",
+    "main.js": "https://sangeetha97j.github.io/csb-wz7nsk/static/js/main.9df817c0.js",
+    "index.html": "https://sangeetha97j.github.io/csb-wz7nsk/index.html",
+    "main.fc5c2c69.css.map": "https://sangeetha97j.github.io/csb-wz7nsk/static/css/main.fc5c2c69.css.map",
+    "main.9df817c0.js.map": "https://sangeetha97j.github.io/csb-wz7nsk/static/js/main.9df817c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.9df817c0.js"
+  ]
+}
